@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "engines": {
-    "node": "16.13.2"
-  },
+  "node": ">=18"
+},
   "scripts": {
     "start": "node server.js"
   },
